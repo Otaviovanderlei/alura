@@ -147,7 +147,7 @@
     "path-exists": "^4.0.0",
     "path-is-absolute": "^1.0.1",
     "path-key": "^3.1.1",
-    "path-scurry": "^1.11.1",
+    "path-scurry": "^2.0.0",
     "picocolors": "^1.1.1",
     "picomatch": "^2.3.1",
     "pirates": "^4.0.7",
